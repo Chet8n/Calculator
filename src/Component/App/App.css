@@ -1,0 +1,20 @@
+body {
+    background: linear-gradient(to right, rgb(32, 32, 110), rgb(49, 111, 182));
+    color: black;
+}
+
+.app-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.calc-container {
+    background-color: rgb(115, 125, 214);
+    width: 350px;
+    border-radius: 24px;
+}
+
+.row-container{
+    display: flex;
+}

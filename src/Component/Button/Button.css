@@ -1,0 +1,19 @@
+.button-container{
+    height: 3em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size:24px;
+    background-color: #00000088;
+    color: rgb(255, 255, 255);
+    flex: 1;
+    cursor: default;
+
+    margin: 4px;
+    border-radius: 24px;
+
+}
+
+.button-container:hover{
+    background-color: rgb(0, 36, 102);
+}
